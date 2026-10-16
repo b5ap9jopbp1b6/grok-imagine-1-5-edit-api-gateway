@@ -104,6 +104,16 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-e5af31) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, other languages** — 9 more language builds: 中文 `grok-imagine-1-5-edit-api-cn` · Deutsch `grok-imagine-1-5-edit-api-de` · Español [grok-imagine-1-5-edit-api-es](https://github.com/c-h93bzyc38vo3/grok-imagine-1-5-edit-api-es) · Français `grok-imagine-1-5-edit-api-fr` · Bahasa `grok-imagine-1-5-edit-api-id` · 日本語 `grok-imagine-1-5-edit-api-ja` · 한국어 [grok-imagine-1-5-edit-api-ko](https://github.com/id5913m6/grok-imagine-1-5-edit-api-ko) · Português [grok-imagine-1-5-edit-api-pt](https://github.com/lvgf2km19cgt5/grok-imagine-1-5-edit-api-pt) · Русский `grok-imagine-1-5-edit-api-ru`
+- **More models in this language** — [midjourney-api-gateway](https://github.com/apimartxc3iskw/midjourney-api-gateway) · [gemini-2-5-flash-image-preview-api-gateway](https://github.com/mcqdlebg/gemini-2-5-flash-image-preview-api-gateway) · [nano-banana-api-gateway](https://github.com/gix2kust/nano-banana-api-gateway) · [gemini-3-1-flash-image-preview-api-gateway](https://github.com/nn6jtthao8/gemini-3-1-flash-image-preview-api-gateway) · [nano-banana-2-api-gateway](https://github.com/u9mdw3pt594q2r/nano-banana-2-api-gateway) · [gemini-3-pro-image-preview-api-gateway](https://github.com/uqu9q/gemini-3-pro-image-preview-api-gateway)
+- **Topic hubs** — every build of this model, all languages: [grok-imagine-1-5-edit](https://github.com/topics/grok-imagine-1-5-edit) · [grok-imagine-1-5-edit-api](https://github.com/topics/grok-imagine-1-5-edit-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
